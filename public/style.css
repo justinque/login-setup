@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-image: url('https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -50px;
+
+}
+
+.footer {
+    height: 50px;
+    text-align:'center';
+    justify-content: 'center';
+}
